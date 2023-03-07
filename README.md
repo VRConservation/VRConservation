@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on python and javascript for remote sensing
+- 🌱 I’m currently learning R
+- 👯 I’m looking to collaborate on creating random forest models in R for whitebark pine distribution and using R with Lidar data
+- 🤔 I’m looking for help with ...
 
 <!--
 **VRConservation/VRConservation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
