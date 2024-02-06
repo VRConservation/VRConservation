@@ -1,7 +1,18 @@
-### Hey!👋
+## Hey!👋
 - 🔭 I’m currently working on python and javascript for remote sensing
-- 🌱 I’m currently learning R
-- 👯 I’m looking to collaborate on creating random forest models in R for whitebark pine distribution and using R with Lidar data
+- 🌱 I also use R for remote sensing applications
+- 👯 I’m looking to collaborate on coding projects to automate geospatial analysis and data visualization
+---
+## About
+- 🌲🌲🌲 I work on forest ecology throughout the Western United States and Europe.
+- 🌎🏔️🌊 Much of this work involves working with organizations to make better decisions with geospatial data
+- 📋And effectively communicating that information to key audiences
+---
+## Connect
+- My website:
+[VR Conservation Collective](https://www.vrconservationcollective.com/)
+- Github repository
+[VRConservation](https://github.com/VRConservation)
 
 
 <!--
