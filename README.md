@@ -1,4 +1,4 @@
-## Hey!👋
+## Welcome to my github repo👋
 - 🔭 I’m currently working on python and javascript for remote sensing
 - 🌱 I also use R for remote sensing applications
 - 👯 I’m looking to collaborate on coding projects to automate geospatial analysis and data visualization
@@ -10,7 +10,7 @@
 ---
 ## Connect
 - My website:
-[VR Conservation Collective](https://www.vrconservationcollective.com/)
+[VR Conservation Collective](https://vrconservation.github.io)
 - Github repository
 [VRConservation](https://github.com/VRConservation)
 
