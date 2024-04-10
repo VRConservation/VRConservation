@@ -10,7 +10,7 @@
 ---
 ## Connect
 - My website:
-[VR Conservation Collective](https://vrconservation.github.io)
+[3point.xyz](https://3point.xyz)
 - Github repository
 [VRConservation](https://github.com/VRConservation)
 
